@@ -18,6 +18,7 @@ redirect_from:
 ## Experience
 
 **2025 – Current** — Associate Professor, University of Aizu
+- Thesis writing and presentation (Coordinator)
 - Introductory English
 - Languages and Linguistics
 - Machine Learning for Linguistics
@@ -59,9 +60,9 @@ redirect_from:
 
 ### Journal Articles
 
-Townley, A., Nae, N., & Kilpatrick, A. J. (2026). Inclusive diverse learning environments at the forefront of internationalization in higher education: A case study of international student experiences at a private business university in Japan. *Forum of International Development Studies*.
+Townley, A., Nae, N., & Kilpatrick, A. J. (2026). Inclusive diverse learning environments at the forefront of internationalization in higher education: A case study of international student experiences at a private business university in Japan. *Forum of International Development Studies*, 56(6), 1–21. [https://doi.org/10.18999/forids.56.6](https://doi.org/10.18999/forids.56.6)
 
-Kilpatrick, A., & Bundgaard-Nielsen, R. (2026). Say it like you mean it: Linguistic vividness and the attentional optimization hypothesis. *Cognition*, 269, 106406.
+Kilpatrick, A., & Bundgaard-Nielsen, R. (2026). Say it like you mean it: Linguistic vividness and the attentional optimization hypothesis. *Cognition*, 269, 106406. [https://doi.org/10.1016/j.cognition.2025.106406](https://doi.org/10.1016/j.cognition.2025.106406)
 
 Flaksman, M., & Kilpatrick, A. J. (2025). Against the tide: How language-specificity of imitative words increases with time (as evidenced by surprisal). In M. Flaksman & P. Akumbu (Eds.), *SKASE Journal of Theoretical Linguistics*.
 
@@ -82,6 +83,8 @@ Kilpatrick, A. J., Kawahara, S., Bundgaard-Nielsen, R., Baker, B., & Fletcher, J
 Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Baker, B. J. (2019). Japanese co-occurrence restrictions influence second language perception. *Applied Psycholinguistics*, 40(2), 585–611.
 
 ### Conference Proceedings
+
+Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2026). Word iconicity and phonological surprisal as predictors of age of acquisition. *Proceedings of the Annual Conference of the International Speech Communication Association (Interspeech 2026)*.
 
 Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Iida, H. (2026). Markedness as surprisal: Information theory and language inefficiency. *Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci 2026)*.
 
@@ -119,6 +122,8 @@ Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Baker, B. J. (2016). Japanese vow
 
 ## Presentations
 
+Word Iconicity and Phonological Surprisal as Predictors of Age of Acquisition. Oral presentation, *Annual Conference of the International Speech Communication Association (Interspeech)*. Sydney, Australia (2026).
+
 Machine Learning Analysis of Sinhala Vowel Length Perception. Oral presentation, *International Conference on Phonetics and AI in Language Education (Phonetics Hong Kong)*. Hong Kong (2026).
 
 Markedness as surprisal: Information theory and language inefficiency. Poster, *Annual Meeting of the Cognitive Science Society (CogSci)*. Rio de Janeiro, Brazil (2026).
@@ -139,9 +144,9 @@ Exploring the Sound Symbolism of Size in American English with the XGBoost Algor
 
 Machine Learning vs. Linear Regression: A Case Study on Gender Sound Symbolism in Japanese Given Names. Oral presentation, *2025 Annual Meeting of the American Name Society*. Online (2025).
 
-The Iconic Treadmill Hypothesis and Surprisal: Offsetting the Cognitive Costs of De-iconization. Oral presentation, *Iconicity Seminar*. Otatu, Japan (2025).
+The Iconic Treadmill Hypothesis and Surprisal: Offsetting the Cognitive Costs of De-iconization. Oral presentation, *Iconicity Seminar*. Otaru, Japan (2025).
 
-The negativity bias is reflected in the iconic markedness of emotional valence. Oral presentation, *Iconicity Seminar*. Otatu, Japan (2025).
+The negativity bias is reflected in the iconic markedness of emotional valence. Oral presentation, *Iconicity Seminar*. Otaru, Japan (2025).
 
 Coarticulation and Transitional Probability in Japanese Perceptual Epenthesis. Oral presentation, *19th Australasian International Conference on Speech Science and Technology*. Melbourne, Australia (2024).
 
